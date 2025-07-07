@@ -4,8 +4,6 @@
 A simple Python GUI application to manage student data using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and `pandas`.  
 This app allows you to add, view, and search students, storing their data in a CSV file.
 
-![Screenshot 2025-07-07 132247](https://github.com/user-attachments/assets/5f57304c-5039-402b-baab-db2ed4e3994f)
-
 
 ---
 
@@ -22,7 +20,7 @@ This app allows you to add, view, and search students, storing their data in a C
 
 ## 📸 Screenshots
 
-> _(Add screenshots here if available, e.g., add_tab, list_tab, search_tab)_
+![Screenshot 2025-07-07 132247](https://github.com/user-attachments/assets/5f57304c-5039-402b-baab-db2ed4e3994f)
 
 ---
 
